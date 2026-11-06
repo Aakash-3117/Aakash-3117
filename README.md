@@ -16,7 +16,7 @@ I'm a BCA graduate interested in software development, cloud computing, and buil
 - **Web Development:** HTML, CSS, Flask
 - **Database:** SQL, SQLite
 - **Cloud:** AWS (EC2, S3, VPC, IAM)
-- **Operating System:** Linux (Learning)
+- **Operating System:** Linux 
 - **DevOps:** DevOps Fundamentals
 - **Tools:** GitHub, VS Code
 
